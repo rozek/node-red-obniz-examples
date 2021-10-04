@@ -23,7 +23,7 @@ The 48-in-1 sensor kit contains the following modules
  <tr><td>RGB LED</td>                     <td>digital Tilt Sensor</td>      <td>analog Alcohol Sensor         </td><td>Relay</td></tr>
  <tr><td>3W LED</td>                      <td>capacitive Touch Sensor</td>  <td>Steam Sensor                  </td><td>linear Temperature Sensor</td></tr>
  <tr><td>Traffic Light</td>               <td>Flame Sensor</td>             <td>analog Piezo Vibration Sensor </td><td>Temperature and Humidity Sensor</td></tr>
- <tr><td>active Buzzer</td>               <td>Reed Relais Module</td>       <td>Voltage Sensor                </td><td>magical Light Cup</td></tr>
+ <tr><td>active Buzzer</td>               <td>Reed Relais Module</td>       <td>Voltage Sensor                </td><td>magic Light Cup</td></tr>
  <tr><td>passive Buzzer</td>              <td>PIR Motion Sensor</td>        <td>Thin-Film Pressure Sensor     </td><td>Attitude Sensor</td></tr>
  <tr><td>digital push Button</td>         <td>analog Temperature Sensor</td><td>Ambient Light Sensor          </td><td>IR Proximity Detection Sensor</td></tr>
  <tr><td>Collision Sensor</td>            <td>analog Rotation Sensor</td>   <td>UV Sensor                     </td><td>triaxial digital Acceleration Sensor</td></tr>

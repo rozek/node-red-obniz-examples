@@ -20,7 +20,7 @@ The 48-in-1 sensor kit contains the following modules:
 
 <table>
  <tr><td>white LED</td>                   <td>Knock Sensor</td>             <td>analog Gas Sensor             </td><td>Rotary Encoder</td></tr>
- <tr><td>RGB LED</td>                     <td>digital Tilt Sensor</td>      <td>analog Alcohol Sensor         </td><td>Relay</td></tr>
+ <tr><td>RGB LED</td>                     <td>digital Tilt Sensor</td>      <td>analog Alcohol Sensor         </td><td>Relais</td></tr>
  <tr><td>3W LED</td>                      <td>capacitive Touch Sensor</td>  <td>Steam Sensor                  </td><td>linear Temperature Sensor</td></tr>
  <tr><td>Traffic Light</td>               <td>Flame Sensor</td>             <td>analog Piezo Vibration Sensor </td><td>Temperature and Humidity Sensor</td></tr>
  <tr><td>active Buzzer</td>               <td>Reed Relais Module</td>       <td>Voltage Sensor                </td><td>magic Light Cup</td></tr>

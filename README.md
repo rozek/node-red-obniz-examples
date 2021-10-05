@@ -16,7 +16,7 @@ This approach makes obniz devices unusable without an active internet connection
 
 **Keyestudio** offers dozens of different sensors and actors on small boards which may be (plugged into breadboards and) directly connected to a microcontroller - at reasonable prices. Using such modules can speed up hardware development and reduce wiring and soldering efforts.
 
-The 48-in-1 sensor kit contains the following modules
+The 48-in-1 sensor kit contains the following modules:
 
 <table>
  <tr><td>white LED</td>                   <td>Knock Sensor</td>             <td>analog Gas Sensor             </td><td>Rotary Encoder</td></tr>

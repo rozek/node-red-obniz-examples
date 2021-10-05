@@ -40,3 +40,7 @@ In the end, this repository should contain examples for as many of these sensors
 
 ## Keyestudio Parts Examples ##
 
+
+## License ##
+
+[MIT License](LICENSE.md)
